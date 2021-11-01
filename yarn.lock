@@ -42,10 +42,10 @@
     semver "^6.3.0"
     source-map "^0.5.0"
 
-"@babel/eslint-parser@^7.12.16", "@babel/eslint-parser@^7.14.7":
-  version "7.15.7"
-  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.15.7.tgz#2dc3d0ff0ea22bb1e08d93b4eeb1149bf1c75f2d"
-  integrity sha512-yJkHyomClm6A2Xzb8pdAo4HzYMSXFn1O5zrCYvbFP0yQFvHueLedV8WiEno8yJOKStjUXzBZzJFeWQ7b3YMsqQ==
+"@babel/eslint-parser@^7.12.16", "@babel/eslint-parser@^7.16.0":
+  version "7.16.0"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.16.0.tgz#032cf6c8d844a95ad62f779d2708fb4f77e1a81c"
+  integrity sha512-c+AsYOHjI+FgCa+ifLd8sDXp4U4mjkfFgL9NdQWhuA731kAUJs0WdJIXET4A14EJAR9Jv9FFF/MzPWJfV9Oirw==
   dependencies:
     eslint-scope "^5.1.1"
     eslint-visitor-keys "^2.1.0"
@@ -10052,10 +10052,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
